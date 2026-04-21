@@ -3,7 +3,7 @@
 User & Calculation Routes with Integration Testing — FastAPI + PostgreSQL
 
 ## Docker Hub
-docker pull YOUR_DOCKERHUB_USERNAME/module12assignmentkv:latest
+docker pull kverma1986/module12assignmentkv:latest
 
 ## Run Locally with Docker
 
@@ -46,4 +46,4 @@ add · subtract · multiply · divide
 
 ## Links
 GitHub:     https://github.com/kverma19863020/Module12AssignmentKV
-Docker Hub: https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/module12assignmentkv
+Docker Hub: https://hub.docker.com/r/kverma1986/module12assignmentkv
